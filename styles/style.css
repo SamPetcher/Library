@@ -1,0 +1,33 @@
+/*# sourceMappingURL=style.css.map */
+#main {
+  width: 100vw;
+  height: 100vh;
+}
+
+#canvas {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 500px;
+  height: 500px;
+  background-color: hsl(120deg, 50%, 95%);
+  margin: auto;
+}
+
+.book-title {
+  font-family: Helvetica, sans-serif;
+  color: black;
+}
+
+.title-subtext {
+  font-family: Helvetica, sans-serif;
+  color: hsl(0deg, 0%, 10%);
+}
+
+.lib-card {
+  display: flex;
+  flex-direction: column;
+}
+
+/*# sourceMappingURL=style.scss.map */
+
+/*# sourceMappingURL=style.css.map */
